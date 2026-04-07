@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "14760f194eda3091",
+    "type": "split",
+    "children": [
+      {
+        "id": "1747c8ff9c3aa947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455270b15a137d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept_監控指標.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "concept_監控指標"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0baa0458b0ea1fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c70f7eae7cc05da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70cdde516476993c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00ccf8104ee57b0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77b73e4df8c45b51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f04fb713fc4226a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3173ae057f31875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd7b30debc1c33b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concept_成長路徑.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for concept_成長路徑"
+            }
+          },
+          {
+            "id": "7985d9a901979d8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "concept_成長路徑.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from concept_成長路徑"
+            }
+          },
+          {
+            "id": "0df712f60b81e693",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a98c55703752a59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df488f9ab5748495",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concept_成長路徑.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of concept_成長路徑"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "455270b15a137d3e",
+  "lastOpenFiles": [
+    "concept_費用說明.md",
+    "concept_監控指標.md",
+    "concept_治理框架.md",
+    "concept_成長路徑.md",
+    "concept_工具選型.md",
+    "concept_四大維度.md",
+    "concept_三層架構.md",
+    "log.md",
+    "overview.md",
+    "usecase_研發知識助理.md",
+    "source_AI導入框架.md",
+    "index.md"
+  ]
+}

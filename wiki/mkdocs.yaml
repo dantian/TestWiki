@@ -1,0 +1,13 @@
+site_name: TianWiki
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Concepts:
+      - 三層架構: concept_三層架構.md
+      - 四大維度: concept_四大維度.md
+
