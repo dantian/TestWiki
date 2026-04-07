@@ -38,5 +38,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           pip install mkdocs-material
-          cd wiki
+          pushd wiki
           mkdocs gh-deploy --force
+          popd
+          
